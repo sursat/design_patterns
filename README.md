@@ -10,4 +10,6 @@
 
    - Factory pattern : FactoryPatternDemo.java
    - Abstract factory pattern : AbstractFactoryPatternDemo.java
-   - Singleton pattern
+   - Singleton pattern : SingletonPatternDemo.java
+   - Builder pattern : BuilderPatternDemo.java
+   
