@@ -6,6 +6,8 @@ package creational.BuilderPattern;
 public class BuilderPatternDemo {
     public static void main(String[] args) {
 
+
+        //MealBuilder IS ACTUAL CLASS THAT DEFINES BUILDER PATTERN
         MealBuilder mealBuilder = new MealBuilder();
 
         Meal vegMeal = mealBuilder.prepareVegMeal();

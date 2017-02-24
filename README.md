@@ -12,4 +12,4 @@
    - Abstract factory pattern : AbstractFactoryPatternDemo.java
    - Singleton pattern : SingletonPatternDemo.java
    - Builder pattern : BuilderPatternDemo.java
-   
+   - ProtoType pattern : PrototypePatternDemo.java
