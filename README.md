@@ -13,3 +13,7 @@
    - Singleton pattern : SingletonPatternDemo.java
    - Builder pattern : BuilderPatternDemo.java
    - ProtoType pattern : PrototypePatternDemo.java
+   
+#### 2. Structural Patterns
+   
+   - Adapter Pattern : AdapterPatternDemo.java 
