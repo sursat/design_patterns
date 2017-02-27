@@ -8,12 +8,13 @@
    
 #### 1. Creational Patterns
 
-   - Factory pattern : FactoryPatternDemo.java
+   - Factory pattern          : FactoryPatternDemo.java
    - Abstract factory pattern : AbstractFactoryPatternDemo.java
-   - Singleton pattern : SingletonPatternDemo.java
-   - Builder pattern : BuilderPatternDemo.java
-   - ProtoType pattern : PrototypePatternDemo.java
+   - Singleton pattern        : SingletonPatternDemo.java
+   - Builder pattern          : BuilderPatternDemo.java
+   - ProtoType pattern        : PrototypePatternDemo.java
    
 #### 2. Structural Patterns
    
-   - Adapter Pattern : AdapterPatternDemo.java 
+   - Adapter Pattern : AdapterPatternDemo.java
+   - Bridge Pattern  : BridgePatternDemo.java
