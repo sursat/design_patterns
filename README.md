@@ -1,6 +1,7 @@
 >Design patterns from tutorial point : http://www.tutorialspoint.com/design_pattern/
 
 ####Design patterns are categorized into 4 parts:
+
    - Creational Patterns
    - Structural Patterns
    - Behavioural Patterns
@@ -16,8 +17,10 @@
    
 #### 2. Structural Patterns
    
-   - Adapter Pattern : AdapterPatternDemo.java
-   - Bridge Pattern  : BridgePatternDemo.java
-   - Filter or Criteria Pattern : CriteriaPatternDemo.java
-   - Composite Pattern : CompositePatternDemo.java
-   - DecoratorPatternDemo : DecoratorPatternDemo.java
+   - Adapter Pattern         : AdapterPatternDemo.java
+   - Bridge Pattern          : BridgePatternDemo.java
+   - Filter/Criteria Pattern : CriteriaPatternDemo.java
+   - Composite Pattern       : CompositePatternDemo.java
+   - Decorator Pattern       : DecoratorPatternDemo.java
+   - Facade Pattern          : FacadePatternDemo.java
+   - Flyweight Pattern       : FlyweightPatternDemo.java
