@@ -20,3 +20,4 @@
    - Bridge Pattern  : BridgePatternDemo.java
    - Filter or Criteria Pattern : CriteriaPatternDemo.java
    - Composite Pattern : CompositePatternDemo.java
+   - DecoratorPatternDemo : DecoratorPatternDemo.java
