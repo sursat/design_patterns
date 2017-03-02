@@ -30,3 +30,4 @@
 
    - Chain of responsibility : ChainPatternDemo.java
    - Command Pattern         : CommandPatternDemo.java
+   - Interpreter Pattern     : InterpreterPatternDemo.java
