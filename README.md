@@ -24,8 +24,9 @@
    - Decorator Pattern       : DecoratorPatternDemo.java
    - Facade Pattern          : FacadePatternDemo.java
    - Flyweight Pattern       : FlyweightPatternDemo.java
-   - ProxyPatternDemo        : ProxyPatternDemo.java
+   - Proxy Pattern        : ProxyPatternDemo.java
    
-#### 3. Chain of responsibility
+#### 3. Behavioral Patterns
 
    - Chain of responsibility : ChainPatternDemo.java
+   - Command Pattern         : CommandPatternDemo.java
