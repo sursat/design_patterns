@@ -24,7 +24,7 @@
    - Decorator Pattern       : DecoratorPatternDemo.java
    - Facade Pattern          : FacadePatternDemo.java
    - Flyweight Pattern       : FlyweightPatternDemo.java
-   - Proxy Pattern        : ProxyPatternDemo.java
+   - Proxy Pattern           : ProxyPatternDemo.java
    
 #### 3. Behavioral Patterns
 
@@ -33,4 +33,7 @@
    - Interpreter Pattern     : InterpreterPatternDemo.java
    - Iterator Pattern        : IteratorPatternDemo.java
    - Mediator Pattern        : MediatorPatternDemo.java
+   - Memento Patter          : MementoPatternDemo.java
+   - Observer Pattern        : ObserverPatternDemo.java
+   - State Pattern           : StatePatternDemo.java
    
