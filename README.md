@@ -36,4 +36,7 @@
    - Memento Patter          : MementoPatternDemo.java
    - Observer Pattern        : ObserverPatternDemo.java
    - State Pattern           : StatePatternDemo.java
+   - Null Pattern            : NullPatternDemo.java
+   - Strategy Pattern        : StrategyPatterDemo.java
+   - Template Pattern        : TemplatePatternDemo.java
    
