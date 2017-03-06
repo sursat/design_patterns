@@ -2,123 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddbcde9-bd93-4f71-bef6-00b5d62ad7ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/nullPattern/AbstractCustomer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/nullPattern/CustomerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/nullPattern/NullCustomer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/nullPattern/NullPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/nullPattern/RealCustomer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/Context.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/OperationAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/OperationMultiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/OperationSubstract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/Strategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/strategyPattern/StrategyPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/templatePattern/Cricket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/templatePattern/Football.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/templatePattern/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/templatePattern/TemplatePatternDemo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/chainPattern/AbstractLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/chainPattern/ChainPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/chainPattern/ConsoleLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/chainPattern/ErrorLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/chainPattern/FileLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/Broker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/BuyStock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/CommandPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/Order.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/SellStock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/commandPattern/Stock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/interpreterPattern/AndExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/interpreterPattern/Expression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/interpreterPattern/InterpreterPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/interpreterPattern/OrExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/interpreterPattern/TerminalExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/Container.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/Iterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/IteratorPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/NameRepository$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/NameRepository$NameIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/behavioural/itteratorPattern/NameRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Bottle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/BuilderPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Burger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/ChickenBurger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Coke.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/ColdDrink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Meal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/MealBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Packing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Pepsi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/VegBurger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/BuilderPattern/Wrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/AbstractFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/AbstractFactoryPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Blue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/ColorFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/FactoryProducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Green.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Red.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/ShapeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/abstractFactory/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/FactoryPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/ShapeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/factoryPattern/readme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/PrototypePatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/ShapeCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/protoTypePattern/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/singleton/SingleObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/creational/singleton/SingletonPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/j2ee/Sample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/AdapterPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/AdvancedMediaPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/AudioPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/MediaAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/MediaPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/Mp4Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/adapterPattern/VlcPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/BridgePatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/DrawAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/GreenCircle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/RedCircle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/bridgePattern/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/compositePattern/CompositePatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/compositePattern/Employee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/DecoratorPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/RedShapeDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/decoratorPattern/ShapeDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/facadePattern/FacadePatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/facadePattern/ShapeMaker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/AndCriteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/Criteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/CriteriaFemale.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/CriteriaMale.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/CriteriaPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/CriteriaSingle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/OrCriteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/filterPattern/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/flyWeightPattern/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/flyWeightPattern/FlyweightPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/flyWeightPattern/ShapeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/proxyPattern/Image.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/proxyPattern/ProxyImage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/proxyPattern/ProxyPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design_patterns/structural/proxyPattern/RealImage.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/Computer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartDisplayVisitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartVisitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/Keyboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/Monitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/Mouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/behavioural/visitorPattern/VisitorPatternDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -138,63 +29,101 @@
     <favorites_list name="CodeIris Favorites" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioural/templatePattern/Game.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ComputerPart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="108">
+              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cricket.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioural/templatePattern/Cricket.java">
+      <file leaf-file-name="ComputerPartVisitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Football.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioural/templatePattern/Football.java">
+      <file leaf-file-name="ComputerPartDisplayVisitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartDisplayVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="468">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplatePatternDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioural/templatePattern/TemplatePatternDemo.java">
+      <file leaf-file-name="VisitorPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/VisitorPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="252">
+              <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="458">
-                <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Computer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyboard.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Keyboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Monitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mouse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Mouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -226,13 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/behavioural/chainPattern/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/chainPattern/commandPattern/A.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/chainPatterncommandPattern/A.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/commandPattern/Stock.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/commandPattern/L.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/commandPattern/Sell.java" />
-        <option value="$PROJECT_DIR$/src/behavioural/commandPattern/B.java" />
         <option value="$PROJECT_DIR$/src/behavioural/commandPattern/Com.java" />
         <option value="$PROJECT_DIR$/src/behavioural/commandPattern/CommandPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/behavioural/interpreterPattern/A.java" />
@@ -276,14 +198,21 @@
         <option value="$PROJECT_DIR$/src/behavioural/templatePattern/A.java" />
         <option value="$PROJECT_DIR$/src/behavioural/templatePattern/T.java" />
         <option value="$PROJECT_DIR$/src/behavioural/templatePattern/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/a.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/KeyBoard.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/AA.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/M.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/AB.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/A.java" />
+        <option value="$PROJECT_DIR$/src/behavioural/visitorPattern/VisitorPatternDemo.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1920" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -305,9 +234,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -352,7 +278,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templatePattern" />
+              <option name="myItemId" value="visitorPattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,6 +302,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -841,43 +770,50 @@
       <option name="project" value="LOCAL" />
       <updated>1488638906902</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="null, strategy and template behavioural patterns added">
+      <created>1488695457176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1488695457176</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283859" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31732777" sideWeight="0.50213444" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31732777" sideWeight="0.49786553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31732777" sideWeight="0.49786553" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776618" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34525082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34898612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283859" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -895,7 +831,8 @@
     <MESSAGE value="command pattern added" />
     <MESSAGE value="Interpreter expression" />
     <MESSAGE value="memento, observer and state patterns added" />
-    <option name="LAST_COMMIT_MESSAGE" value="memento, observer and state patterns added" />
+    <MESSAGE value="null, strategy and template behavioural patterns added" />
+    <option name="LAST_COMMIT_MESSAGE" value="null, strategy and template behavioural patterns added" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -908,63 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/behavioural/chainPattern/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/chainPattern/ChainPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/BuyStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/SellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/Broker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioural/commandPattern/CommandPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/behavioural/interpreterPattern/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1123,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,14 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#145#146#0" expanded="false" />
-            <element signature="e#173#174#0" expanded="false" />
-            <element signature="e#273#274#0" expanded="false" />
-            <element signature="e#307#308#0" expanded="false" />
-            <element signature="e#204#205#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,10 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding>
-            <element signature="e#285#286#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1157,10 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1168,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,7 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,14 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#165#166#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-            <element signature="e#341#342#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1199,12 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#170#171#0" expanded="false" />
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#273#274#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1212,7 +1059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,10 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#186#187#0" expanded="false" />
-            <element signature="e#220#221#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1247,7 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,10 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#191#192#0" expanded="false" />
-            <element signature="e#225#226#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1266,12 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#171#172#0" expanded="false" />
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1279,7 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1322,6 +1150,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/ComputerPartDisplayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1330,11 +1232,19 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="458">
-            <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+          <first_editor relative-caret-position="738">
+            <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/behavioural/visitorPattern/VisitorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

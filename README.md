@@ -39,4 +39,5 @@
    - Null Pattern            : NullPatternDemo.java
    - Strategy Pattern        : StrategyPatterDemo.java
    - Template Pattern        : TemplatePatternDemo.java
+   - Visitor Pattern         : VisitorPatternDemo.java
    
