@@ -40,4 +40,5 @@
    - Strategy Pattern        : StrategyPatterDemo.java
    - Template Pattern        : TemplatePatternDemo.java
    - Visitor Pattern         : VisitorPatternDemo.java
+   - MVC Pattern             : MVCPatternDemo.java
    
